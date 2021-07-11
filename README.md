@@ -40,6 +40,7 @@
 </a>
   
   <p align='center'>
- ![lyutvs's github stats](href=https://github.com/anuraghazra/github-readme-stats)(https://github-readme-stats.vercel.app/api?username=lyutvs&theme=dark&show_icons=true")
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lyutvs"/>
 </p>
