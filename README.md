@@ -43,4 +43,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=lyutvs&theme=dark&show_icons=true"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lyutvs"/>
 </p>
 
- ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
+ ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=autot=130)
