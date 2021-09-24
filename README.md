@@ -49,7 +49,7 @@
     
 </p>
 
-   ![snake gif](https://github.com/lyutvs/lyutvs/blob/output/github-contribution-grid-snake.svg)
+![이게뭐야?](https://raw.githubusercontent.com/lyutvs/lyutvs/output/github-contribution-grid-snake.svg)
 
 
 
