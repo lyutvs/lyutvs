@@ -47,9 +47,10 @@
   <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api?username=lyutvs&theme=dark&show_icons=true"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lyutvs"/>
     
-    ![snake gif](https://github.com/lyutvs/lyutvs/blob/output/github-contribution-grid-snake.svg)
-
 </p>
+
+   ![snake gif](https://github.com/lyutvs/lyutvs/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
