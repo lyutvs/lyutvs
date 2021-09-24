@@ -49,7 +49,6 @@
     
 </p>
 
-(https://github.com/baekteun/github-readme-activity-graph)
 ![이게뭐야?](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 
 
