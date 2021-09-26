@@ -49,8 +49,6 @@
     
 </p>
 
-![오아..](https://raw.githubusercontent.com/lyutvs/lyutvs/output/github-contribution-grid-snake.svg)
-
 
 
 
