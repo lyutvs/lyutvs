@@ -9,6 +9,5 @@
   <a href="mailto:lyutvs@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://www.notion.so/sehyoun05/SEHYOUN-98a343a40a19416997ff537b471f50a0" target="_blank">  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
   
